@@ -1,6 +1,6 @@
 # Hi there!
 # Welcome to Carla Vasconcelos profile ★
-![image](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDkyNmZzaWV5ZjNyZ3Jhb20xd290NzlxM3hlam1pN29kMHJud21mZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif)
+![image](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHcxcnpmbGpoM2M3dHJoaHpsdml4cWV4MGl0NHl0Z3U0dGU2bXFmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tOY7amTI3QyIbZe/giphy.gif)
 ### Languages
 
   ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
