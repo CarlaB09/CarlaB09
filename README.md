@@ -1,6 +1,6 @@
 # Hi there!
-# Welcome to Carla Barbella profile ★
-![image](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBkd2s1YWIyNHI3M3RxNXg5NDFqZGVsZXByZzVsbmZ1bHZ5bzU4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/suPYBG8FxLRbKL7Up2/giphy.gif)
+# Welcome to Carla Vasconcelos profile ★
+![image](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDkyNmZzaWV5ZjNyZ3Jhb20xd290NzlxM3hlam1pN29kMHJud21mZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif)
 ### Languages
 
   ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
